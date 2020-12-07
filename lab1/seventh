@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -E -h -r -o "[[:alnum:]._]+@[[:lower:]]+\.[[:lower:]]+" /etc | sort | uniq | awk '{printf("%s, ", $0)}' > emails.lst

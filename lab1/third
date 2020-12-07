@@ -1,0 +1,16 @@
+#!/bin/bash
+echo -e "Input option number:\n1) nano\n2) vi\n3) links\n4) exit"
+read Option
+case $Option in
+1 )
+exec nano;;
+2 )
+exec vi;;
+3 )
+exec links;;
+4 )
+echo "Exit...";;
+* )
+echo "Incorrect option"
+esac
+

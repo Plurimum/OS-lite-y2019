@@ -1,0 +1,9 @@
+#!/bin/bash
+S=""
+read A
+while [[ $A != "q" ]]
+  do
+  S=$S$A
+  read A
+  done
+echo $S

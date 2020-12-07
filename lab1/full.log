@@ -1,0 +1,888 @@
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  Falling back to old probe method for modesetting
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  Falling back to old probe method for fbdev
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  VGA arbiter: cannot open kernel arbiter, no multi-card support
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  vmware(0): Failed to initialize Gallium3D Xa. No render acceleration available.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  vmware(0): Skipped initialization of direct rendering due to lack of render acceleration.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Warning:  vmware(0): Disabling Xv because no adaptors could be initialized.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  Falling back to old probe method for modesetting
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  Falling back to old probe method for fbdev
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Warning:  VGA arbiter: cannot open kernel arbiter, no multi-card support
+Dec 7 13:02:09 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Dec 7 13:02:09 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Dec 7 13:02:09 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Dec 7 13:02:09 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Dec 7 13:02:09 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  Falling back to old probe method for modesetting
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  Falling back to old probe method for fbdev
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Warning:  VGA arbiter: cannot open kernel arbiter, no multi-card support
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  The directory "/usr/share/fonts/X11/100dpi" does not exist.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  The directory "/usr/share/fonts/X11/75dpi" does not exist.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  Falling back to old probe method for modesetting
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  Falling back to old probe method for fbdev
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Warning:  VGA arbiter: cannot open kernel arbiter, no multi-card support
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  The server relies on udev to provide the list of input devices.
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loader magic: 0x55e0620d6020
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module ABI versions:
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: took control of session /org/freedesktop/login1/session/_32
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  xfree86: Adding drm device (/dev/dri/card0)
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "glx"
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/extensions/libglx.so
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module glx: vendor="X.Org Foundation"
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "vmware"
+Dec 7 00:35:16 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module vmware: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "modesetting"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module modesetting: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "fbdev"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module fbdev: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "vesa"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module vesa: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware: driver for VMware SVGA: vmware0405, vmware0710
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  modesetting: Driver for Modesetting Kernel Drivers: kms
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  FBDEV: driver for framebuffer: fbdev
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  VESA: driver for VESA chipsets: vesa
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading sub module "fbdevhw"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "fbdevhw"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/libfbdevhw.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module fbdevhw: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Creating default Display subsection in Screen section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual1 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual2 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual3 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual4 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual5 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual6 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual7 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual8 has no monitor section
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Printing probed modes for output Virtual1
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "800x600"x60.0 42.75 800 850 900 950 600 650 700 750 -hsync +vsync (45.0 kHz eP)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "2560x1600"x60.0 348.50 2560 2752 3032 3504 1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1920x1440"x60.0 234.00 1920 2048 2256 2600 1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1856x1392"x60.0 218.25 1856 1952 2176 2528 1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1792x1344"x60.0 204.75 1792 1920 2120 2448 1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1920x1200"x59.9 193.25 1920 2056 2256 2592 1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1600x1200"x60.0 162.00 1600 1664 1856 2160 1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1680x1050"x60.0 146.25 1680 1784 1960 2240 1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1400x1050"x60.0 121.75 1400 1488 1632 1864 1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1280x1024"x60.0 108.00 1280 1328 1440 1688 1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1440x900"x59.9 106.50 1440 1520 1672 1904 900 903 909 934 -hsync +vsync (55.9 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1280x960"x60.0 108.00 1280 1376 1488 1800 960 961 964 1000 +hsync +vsync (60.0 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1360x768"x60.0 85.50 1360 1424 1536 1792 768 771 777 795 +hsync +vsync (47.7 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1280x800"x59.8 83.50 1280 1352 1480 1680 800 803 809 831 +hsync -vsync (49.7 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1152x864"x75.0 108.00 1152 1216 1344 1600 864 865 868 900 +hsync +vsync (67.5 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1280x768"x59.9 79.50 1280 1344 1472 1664 768 771 778 798 -hsync +vsync (47.8 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "1024x768"x60.0 65.00 1024 1048 1184 1344 768 771 777 806 -hsync -vsync (48.4 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "800x600"x60.3 40.00 800 840 968 1056 600 601 605 628 +hsync +vsync (37.9 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Modeline "640x480"x59.9 25.18 640 656 752 800 480 489 492 525 -hsync -vsync (31.5 kHz e)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual2
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual3
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual4
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual5
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual6
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual7
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): EDID for output Virtual8
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual1 connected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual2 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual3 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual4 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual5 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual6 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual7 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual8 disconnected
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Using exact sizes for initial modes
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading sub module "fb"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "fb"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/libfb.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module fb: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading sub module "dri2"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "dri2"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module "dri2" already built-in
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading sub module "dri3"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "dri3"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module "dri3" already built-in
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  UnloadModule: "modesetting"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Unloading modesetting
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  UnloadModule: "fbdev"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Unloading fbdev
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  UnloadSubModule: "fbdevhw"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Unloading fbdevhw
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  UnloadModule: "vesa"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Unloading vesa
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Initialized VMWARE_CTRL extension version 0.2
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): No 3D acceleration. Not setting up textured video.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension Generic Event Extension
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension SHAPE
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension MIT-SHM
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XInputExtension
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XTEST
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension BIG-REQUESTS
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension SYNC
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XKEYBOARD
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XC-MISC
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension SECURITY
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XFIXES
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension RENDER
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension RANDR
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension COMPOSITE
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension DAMAGE
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension MIT-SCREEN-SAVER
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension DOUBLE-BUFFER
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension RECORD
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension DPMS
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension Present
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension DRI3
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension X-Resource
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XVideo
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XVideo-MotionCompensation
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension SELinux
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  SELinux: Disabled on system
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension GLX
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  AIGLX: Screen 0 is not DRI2 capable
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  IGLX: Loaded and initialized swrast
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  GLX: Initialized DRISWRAST GL provider for screen 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XFree86-VidModeExtension
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XFree86-DGA
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension XFree86-DRI
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Initializing extension DRI2
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  vmware(0): Setting screen physical size to 211 x 158
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device Power Button (/dev/input/event0)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  LoadModule: "libinput"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Module libinput: vendor="X.Org Foundation"
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'Power Button'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event0 13:64 fd 20 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device Sleep Button (/dev/input/event1)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'Sleep Button'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event1 13:65 fd 23 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device Video Bus (/dev/input/event3)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'Video Bus'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event3 13:67 fd 24 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/event6)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'VirtualBox mouse integration'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event6 13:70 fd 25 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/js1)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  This device may have been added with another device file.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'VirtualBox USB Tablet'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event5 13:69 fd 26 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 10)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  This device may have been added with another device file.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  This device may have been added with another device file.
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event2 13:66 fd 27 paused 0
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 11)
+Dec 7 00:35:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  systemd-logind: got fd for /dev/input/event4 13:68 fd 28 paused 0
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 12)
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:35:18 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  This device may have been added with another device file.
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event0 - Power Button: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event1 - Sleep Button: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event3 - Video Bus: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 00:36:17 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1426]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  The server relies on udev to provide the list of input devices.
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loader magic: 0x562664581020
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module ABI versions:
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: took control of session /org/freedesktop/login1/session/_32
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  xfree86: Adding drm device (/dev/dri/card0)
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "glx"
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/extensions/libglx.so
+Dec 7 00:38:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module glx: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "vmware"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module vmware: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "modesetting"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module modesetting: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "fbdev"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module fbdev: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "vesa"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module vesa: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware: driver for VMware SVGA: vmware0405, vmware0710
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  modesetting: Driver for Modesetting Kernel Drivers: kms
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  FBDEV: driver for framebuffer: fbdev
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  VESA: driver for VESA chipsets: vesa
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading sub module "fbdevhw"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "fbdevhw"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/libfbdevhw.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module fbdevhw: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Creating default Display subsection in Screen section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual1 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual2 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual3 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual4 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual5 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual6 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual7 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual8 has no monitor section
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Printing probed modes for output Virtual1
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "800x600"x60.0 42.75 800 850 900 950 600 650 700 750 -hsync +vsync (45.0 kHz eP)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "2560x1600"x60.0 348.50 2560 2752 3032 3504 1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1920x1440"x60.0 234.00 1920 2048 2256 2600 1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1856x1392"x60.0 218.25 1856 1952 2176 2528 1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1792x1344"x60.0 204.75 1792 1920 2120 2448 1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1920x1200"x59.9 193.25 1920 2056 2256 2592 1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1600x1200"x60.0 162.00 1600 1664 1856 2160 1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1680x1050"x60.0 146.25 1680 1784 1960 2240 1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1400x1050"x60.0 121.75 1400 1488 1632 1864 1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1280x1024"x60.0 108.00 1280 1328 1440 1688 1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1440x900"x59.9 106.50 1440 1520 1672 1904 900 903 909 934 -hsync +vsync (55.9 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1280x960"x60.0 108.00 1280 1376 1488 1800 960 961 964 1000 +hsync +vsync (60.0 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1360x768"x60.0 85.50 1360 1424 1536 1792 768 771 777 795 +hsync +vsync (47.7 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1280x800"x59.8 83.50 1280 1352 1480 1680 800 803 809 831 +hsync -vsync (49.7 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1152x864"x75.0 108.00 1152 1216 1344 1600 864 865 868 900 +hsync +vsync (67.5 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1280x768"x59.9 79.50 1280 1344 1472 1664 768 771 778 798 -hsync +vsync (47.8 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "1024x768"x60.0 65.00 1024 1048 1184 1344 768 771 777 806 -hsync -vsync (48.4 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "800x600"x60.3 40.00 800 840 968 1056 600 601 605 628 +hsync +vsync (37.9 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Modeline "640x480"x59.9 25.18 640 656 752 800 480 489 492 525 -hsync -vsync (31.5 kHz e)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual2
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual3
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual4
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual5
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual6
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual7
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): EDID for output Virtual8
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual1 connected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual2 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual3 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual4 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual5 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual6 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual7 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual8 disconnected
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Using exact sizes for initial modes
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading sub module "fb"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "fb"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/libfb.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module fb: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading sub module "dri2"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "dri2"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module "dri2" already built-in
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading sub module "dri3"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "dri3"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module "dri3" already built-in
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  UnloadModule: "modesetting"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Unloading modesetting
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  UnloadModule: "fbdev"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Unloading fbdev
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  UnloadSubModule: "fbdevhw"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Unloading fbdevhw
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  UnloadModule: "vesa"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Unloading vesa
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Initialized VMWARE_CTRL extension version 0.2
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Gallium3D XA version: 2.5.0.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Path of drm device is "/dev/dri/card0".
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): [DRI2] Setup complete
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): [DRI2] DRI driver: vmwgfx
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension Generic Event Extension
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension SHAPE
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension MIT-SHM
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XInputExtension
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XTEST
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension BIG-REQUESTS
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension SYNC
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XKEYBOARD
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XC-MISC
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension SECURITY
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XFIXES
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension RENDER
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension RANDR
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension COMPOSITE
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension DAMAGE
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension MIT-SCREEN-SAVER
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension DOUBLE-BUFFER
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension RECORD
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension DPMS
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension Present
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension DRI3
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension X-Resource
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XVideo
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XVideo-MotionCompensation
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension SELinux
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  SELinux: Disabled on system
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension GLX
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  AIGLX: Loaded and initialized vmwgfx
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  GLX: Initialized DRI2 GL provider for screen 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XFree86-VidModeExtension
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XFree86-DGA
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension XFree86-DRI
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Initializing extension DRI2
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  vmware(0): Setting screen physical size to 211 x 158
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device Power Button (/dev/input/event0)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  LoadModule: "libinput"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Module libinput: vendor="X.Org Foundation"
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'Power Button'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event0 13:64 fd 24 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device Sleep Button (/dev/input/event1)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'Sleep Button'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event1 13:65 fd 27 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device Video Bus (/dev/input/event3)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'Video Bus'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event3 13:67 fd 28 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/event6)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'VirtualBox mouse integration'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event6 13:70 fd 29 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/js1)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  This device may have been added with another device file.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'VirtualBox USB Tablet'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event5 13:69 fd 30 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 10)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  This device may have been added with another device file.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  This device may have been added with another device file.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event2 13:66 fd 31 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 11)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  systemd-logind: got fd for /dev/input/event4 13:68 fd 32 paused 0
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 12)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  No input driver specified, ignoring this device.
+Dec 7 00:38:33 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  This device may have been added with another device file.
+Dec 7 00:48:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: SYN_DROPPED event - some input events have been lost.
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event0 - Power Button: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event1 - Sleep Button: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event3 - Video Bus: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 01:48:32 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1357]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  The server relies on udev to provide the list of input devices.
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loader magic: 0x55bc0af5c020
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module ABI versions:
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: took control of session /org/freedesktop/login1/session/_32
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  xfree86: Adding drm device (/dev/dri/card0)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "glx"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/extensions/libglx.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module glx: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "vmware"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module vmware: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "modesetting"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module modesetting: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "fbdev"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module fbdev: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "vesa"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module vesa: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware: driver for VMware SVGA: vmware0405, vmware0710
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  modesetting: Driver for Modesetting Kernel Drivers: kms
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  FBDEV: driver for framebuffer: fbdev
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  VESA: driver for VESA chipsets: vesa
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading sub module "fbdevhw"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "fbdevhw"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/libfbdevhw.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module fbdevhw: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Creating default Display subsection in Screen section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual1 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual2 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual3 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual4 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual5 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual6 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual7 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual8 has no monitor section
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Printing probed modes for output Virtual1
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "800x600"x60.0 42.75 800 850 900 950 600 650 700 750 -hsync +vsync (45.0 kHz eP)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "2560x1600"x60.0 348.50 2560 2752 3032 3504 1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1920x1440"x60.0 234.00 1920 2048 2256 2600 1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1856x1392"x60.0 218.25 1856 1952 2176 2528 1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1792x1344"x60.0 204.75 1792 1920 2120 2448 1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1920x1200"x59.9 193.25 1920 2056 2256 2592 1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1600x1200"x60.0 162.00 1600 1664 1856 2160 1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1680x1050"x60.0 146.25 1680 1784 1960 2240 1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1400x1050"x60.0 121.75 1400 1488 1632 1864 1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1280x1024"x60.0 108.00 1280 1328 1440 1688 1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1440x900"x59.9 106.50 1440 1520 1672 1904 900 903 909 934 -hsync +vsync (55.9 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1280x960"x60.0 108.00 1280 1376 1488 1800 960 961 964 1000 +hsync +vsync (60.0 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1360x768"x60.0 85.50 1360 1424 1536 1792 768 771 777 795 +hsync +vsync (47.7 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1280x800"x59.8 83.50 1280 1352 1480 1680 800 803 809 831 +hsync -vsync (49.7 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1152x864"x75.0 108.00 1152 1216 1344 1600 864 865 868 900 +hsync +vsync (67.5 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1280x768"x59.9 79.50 1280 1344 1472 1664 768 771 778 798 -hsync +vsync (47.8 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "1024x768"x60.0 65.00 1024 1048 1184 1344 768 771 777 806 -hsync -vsync (48.4 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "800x600"x60.3 40.00 800 840 968 1056 600 601 605 628 +hsync +vsync (37.9 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Modeline "640x480"x59.9 25.18 640 656 752 800 480 489 492 525 -hsync -vsync (31.5 kHz e)
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual2
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual3
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual4
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual5
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual6
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual7
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): EDID for output Virtual8
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual1 connected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual2 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual3 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual4 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual5 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual6 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual7 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual8 disconnected
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Using exact sizes for initial modes
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading sub module "fb"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "fb"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/libfb.so
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module fb: vendor="X.Org Foundation"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading sub module "dri2"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "dri2"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module "dri2" already built-in
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading sub module "dri3"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "dri3"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module "dri3" already built-in
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  UnloadModule: "modesetting"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Unloading modesetting
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  UnloadModule: "fbdev"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Unloading fbdev
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  UnloadSubModule: "fbdevhw"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Unloading fbdevhw
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  UnloadModule: "vesa"
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Unloading vesa
+Dec 7 13:02:10 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Initialized VMWARE_CTRL extension version 0.2
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Gallium3D XA version: 2.5.0.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Path of drm device is "/dev/dri/card0".
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): [DRI2] Setup complete
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): [DRI2] DRI driver: vmwgfx
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension Generic Event Extension
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension SHAPE
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension MIT-SHM
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XInputExtension
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XTEST
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension BIG-REQUESTS
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension SYNC
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XKEYBOARD
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XC-MISC
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension SECURITY
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XFIXES
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension RENDER
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension RANDR
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension COMPOSITE
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension DAMAGE
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension MIT-SCREEN-SAVER
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension DOUBLE-BUFFER
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension RECORD
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension DPMS
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension Present
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension DRI3
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension X-Resource
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XVideo
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XVideo-MotionCompensation
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension SELinux
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  SELinux: Disabled on system
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension GLX
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  AIGLX: Loaded and initialized vmwgfx
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  GLX: Initialized DRI2 GL provider for screen 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XFree86-VidModeExtension
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XFree86-DGA
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension XFree86-DRI
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Initializing extension DRI2
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  vmware(0): Setting screen physical size to 211 x 158
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device Power Button (/dev/input/event0)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  LoadModule: "libinput"
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Module libinput: vendor="X.Org Foundation"
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'Power Button'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event0 13:64 fd 24 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event0 - Power Button: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device Sleep Button (/dev/input/event1)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'Sleep Button'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event1 13:65 fd 27 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event1 - Sleep Button: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device Video Bus (/dev/input/event3)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'Video Bus'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event3 13:67 fd 28 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event3 - Video Bus: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/event6)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'VirtualBox mouse integration'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event6 13:70 fd 29 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/js1)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  This device may have been added with another device file.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'VirtualBox USB Tablet'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event5 13:69 fd 30 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 10)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  This device may have been added with another device file.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  This device may have been added with another device file.
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event2 13:66 fd 31 paused 0
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 11)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+Dec 7 13:02:11 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  systemd-logind: got fd for /dev/input/event4 13:68 fd 32 paused 0
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 12)
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:02:12 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1639]: Information:  This device may have been added with another device file.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  The server relies on udev to provide the list of input devices.
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loader magic: 0x5585e1b2f020
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module ABI versions:
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: took control of session /org/freedesktop/login1/session/_32
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  xfree86: Adding drm device (/dev/dri/card0)
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/dri/card0 226:0 fd 12 paused 0
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "glx"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/extensions/libglx.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module glx: vendor="X.Org Foundation"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "vmware"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/drivers/vmware_drv.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module vmware: vendor="X.Org Foundation"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "modesetting"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module modesetting: vendor="X.Org Foundation"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "fbdev"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module fbdev: vendor="X.Org Foundation"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "vesa"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module vesa: vendor="X.Org Foundation"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware: driver for VMware SVGA: vmware0405, vmware0710
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  modesetting: Driver for Modesetting Kernel Drivers: kms
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  FBDEV: driver for framebuffer: fbdev
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  VESA: driver for VESA chipsets: vesa
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading sub module "fbdevhw"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "fbdevhw"
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/libfbdevhw.so
+Dec 7 13:06:39 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module fbdevhw: vendor="X.Org Foundation"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Creating default Display subsection in Screen section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual1 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual2 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual3 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual4 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual5 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual6 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual7 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual8 has no monitor section
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Printing probed modes for output Virtual1
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "800x600"x60.0 42.75 800 850 900 950 600 650 700 750 -hsync +vsync (45.0 kHz eP)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "2560x1600"x60.0 348.50 2560 2752 3032 3504 1600 1603 1609 1658 -hsync +vsync (99.5 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1920x1440"x60.0 234.00 1920 2048 2256 2600 1440 1441 1444 1500 -hsync +vsync (90.0 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1856x1392"x60.0 218.25 1856 1952 2176 2528 1392 1393 1396 1439 -hsync +vsync (86.3 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1792x1344"x60.0 204.75 1792 1920 2120 2448 1344 1345 1348 1394 -hsync +vsync (83.6 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1920x1200"x59.9 193.25 1920 2056 2256 2592 1200 1203 1209 1245 -hsync +vsync (74.6 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1600x1200"x60.0 162.00 1600 1664 1856 2160 1200 1201 1204 1250 +hsync +vsync (75.0 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1680x1050"x60.0 146.25 1680 1784 1960 2240 1050 1053 1059 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1400x1050"x60.0 121.75 1400 1488 1632 1864 1050 1053 1057 1089 -hsync +vsync (65.3 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1280x1024"x60.0 108.00 1280 1328 1440 1688 1024 1025 1028 1066 +hsync +vsync (64.0 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1440x900"x59.9 106.50 1440 1520 1672 1904 900 903 909 934 -hsync +vsync (55.9 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1280x960"x60.0 108.00 1280 1376 1488 1800 960 961 964 1000 +hsync +vsync (60.0 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1360x768"x60.0 85.50 1360 1424 1536 1792 768 771 777 795 +hsync +vsync (47.7 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1280x800"x59.8 83.50 1280 1352 1480 1680 800 803 809 831 +hsync -vsync (49.7 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1152x864"x75.0 108.00 1152 1216 1344 1600 864 865 868 900 +hsync +vsync (67.5 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1280x768"x59.9 79.50 1280 1344 1472 1664 768 771 778 798 -hsync +vsync (47.8 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "1024x768"x60.0 65.00 1024 1048 1184 1344 768 771 777 806 -hsync -vsync (48.4 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "800x600"x60.3 40.00 800 840 968 1056 600 601 605 628 +hsync +vsync (37.9 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Modeline "640x480"x59.9 25.18 640 656 752 800 480 489 492 525 -hsync -vsync (31.5 kHz e)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual2
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual3
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual4
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual5
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual6
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual7
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): EDID for output Virtual8
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual1 connected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual2 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual3 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual4 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual5 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual6 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual7 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual8 disconnected
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Using exact sizes for initial modes
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Output Virtual1 using initial mode 800x600 +0+0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading sub module "fb"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "fb"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/libfb.so
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module fb: vendor="X.Org Foundation"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading sub module "dri2"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "dri2"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module "dri2" already built-in
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading sub module "dri3"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "dri3"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module "dri3" already built-in
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  UnloadModule: "modesetting"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Unloading modesetting
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  UnloadModule: "fbdev"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Unloading fbdev
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  UnloadSubModule: "fbdevhw"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Unloading fbdevhw
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  UnloadModule: "vesa"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Unloading vesa
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Initialized VMWARE_CTRL extension version 0.2
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Gallium3D XA version: 2.5.0.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Path of drm device is "/dev/dri/card0".
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): [DRI2] Setup complete
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): [DRI2] DRI driver: vmwgfx
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension Generic Event Extension
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension SHAPE
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension MIT-SHM
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XInputExtension
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XTEST
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension BIG-REQUESTS
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension SYNC
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XKEYBOARD
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XC-MISC
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension SECURITY
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XFIXES
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension RENDER
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension RANDR
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension COMPOSITE
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension DAMAGE
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension MIT-SCREEN-SAVER
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension DOUBLE-BUFFER
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension RECORD
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension DPMS
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension Present
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension DRI3
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension X-Resource
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XVideo
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XVideo-MotionCompensation
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension SELinux
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  SELinux: Disabled on system
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension GLX
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  AIGLX: Loaded and initialized vmwgfx
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  GLX: Initialized DRI2 GL provider for screen 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XFree86-VidModeExtension
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XFree86-DGA
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension XFree86-DRI
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Initializing extension DRI2
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  vmware(0): Setting screen physical size to 211 x 158
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device Power Button (/dev/input/event0)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  LoadModule: "libinput"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Loading /usr/lib/xorg/modules/input/libinput_drv.so
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Module libinput: vendor="X.Org Foundation"
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'Power Button'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event0 13:64 fd 24 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event0 - Power Button: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event0 - Power Button: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event0 - Power Button: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device Sleep Button (/dev/input/event1)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'Sleep Button'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event1 13:65 fd 27 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event1 - Sleep Button: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 7)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event1 - Sleep Button: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event1 - Sleep Button: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device Video Bus (/dev/input/event3)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'Video Bus'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event3 13:67 fd 28 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event3 - Video Bus: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 8)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event3 - Video Bus: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event3 - Video Bus: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/event6)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'VirtualBox mouse integration'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event6 13:70 fd 29 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event6 - VirtualBox mouse integration: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "VirtualBox mouse integration" (type: MOUSE, id 9)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event6 - VirtualBox mouse integration: is tagged by udev as: Mouse
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event6 - VirtualBox mouse integration: device is a pointer
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device VirtualBox mouse integration (/dev/input/js1)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  This device may have been added with another device file.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/event5)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'VirtualBox USB Tablet'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event5 13:69 fd 30 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event5 - VirtualBox USB Tablet: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "VirtualBox USB Tablet" (type: MOUSE, id 10)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event5 - VirtualBox USB Tablet: is tagged by udev as: Mouse
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event5 - VirtualBox USB Tablet: device is a pointer
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/js0)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  This device may have been added with another device file.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device VirtualBox USB Tablet (/dev/input/mouse1)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  This device may have been added with another device file.
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event2)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event2 13:66 fd 31 paused 0
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event2 - AT Translated Set 2 keyboard: device removed
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 11)
+Dec 7 13:06:40 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event2 - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event2 - AT Translated Set 2 keyboard: device is a keyboard
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/event4)
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  Using input driver 'libinput' for 'ImExPS/2 Generic Explorer Mouse'
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  systemd-logind: got fd for /dev/input/event4 13:68 fd 32 paused 0
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device removed
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  XINPUT: Adding extended input device "ImExPS/2 Generic Explorer Mouse" (type: MOUSE, id 12)
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: is tagged by udev as: Mouse
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  event4 - ImExPS/2 Generic Explorer Mouse: device is a pointer
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  config/udev: Adding input device ImExPS/2 Generic Explorer Mouse (/dev/input/mouse0)
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  No input driver specified, ignoring this device.
+Dec 7 13:06:41 max-VirtualBox /usr/lib/gdm3/gdm-x-session[1306]: Information:  This device may have been added with another device file.

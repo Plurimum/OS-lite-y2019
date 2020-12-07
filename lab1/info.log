@@ -1,0 +1,396 @@
+Dec  7 00:33:48 max-VirtualBox NetworkManager[461]: <info>  [1607283228.4440] NetworkManager (version 1.22.10) is starting... (for the first time)
+Dec  7 00:33:48 max-VirtualBox NetworkManager[461]: <info>  [1607283228.4441] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Dec  7 00:33:48 max-VirtualBox NetworkManager[461]: <info>  [1607283228.4533] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec  7 00:33:48 max-VirtualBox NetworkManager[461]: <info>  [1607283228.8163] manager[0x55bec77d1040]: monitoring kernel firmware directory '/lib/firmware'.
+Dec  7 00:33:48 max-VirtualBox NetworkManager[461]: <info>  [1607283228.8164] monitoring ifupdown state file '/run/network/ifstate'.
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.3199] hostname: hostname: using hostnamed
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.3200] hostname: hostname changed from (none) to "max-VirtualBox"
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.3202] dns-mgr[0x55bec77ba290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.3205] manager[0x55bec77d1040]: rfkill: Wi-Fi hardware radio set enabled
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.3205] manager[0x55bec77d1040]: rfkill: WWAN hardware radio set enabled
+Dec  7 00:33:49 max-VirtualBox ModemManager[555]: <info>  ModemManager (version 1.12.8) starting in system bus...
+Dec  7 00:33:49 max-VirtualBox NetworkManager[461]: <info>  [1607283229.9933] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.2279] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.3503] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.6376] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.7895] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.7904] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.7914] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.7920] manager: Networking is enabled by state file
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.7928] dhcp-init: Using DHCP client 'internal'
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.8386] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.8388] settings: Loaded settings plugin: keyfile (internal)
+Dec  7 00:33:50 max-VirtualBox NetworkManager[461]: <info>  [1607283230.8389] ifupdown: management mode: unmanaged
+Dec  7 00:33:51 max-VirtualBox NetworkManager[461]: <info>  [1607283231.3564] device (lo): carrier: link connected
+Dec  7 00:33:51 max-VirtualBox NetworkManager[461]: <info>  [1607283231.3578] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec  7 00:33:51 max-VirtualBox NetworkManager[461]: <info>  [1607283231.3624] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec  7 00:33:51 max-VirtualBox NetworkManager[461]: <info>  [1607283231.6967] settings: (enp0s3): created default wired connection 'Проводное соединение 1'
+Dec  7 00:33:51 max-VirtualBox NetworkManager[461]: <info>  [1607283231.7385] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.1889] device (enp0s3): carrier: link connected
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.1944] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.1990] policy: auto-activating connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2029] device (enp0s3): Activation: starting connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2035] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2067] manager: NetworkManager state is now CONNECTING
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2090] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2114] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2127] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2416] dhcp4 (enp0s3): option dhcp_lease_time      => '86400'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2418] dhcp4 (enp0s3): option domain_name_servers  => '192.168.1.1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2419] dhcp4 (enp0s3): option expiry               => '1607369632'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2420] dhcp4 (enp0s3): option ip_address           => '10.0.2.15'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2421] dhcp4 (enp0s3): option next_server          => '10.0.2.4'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2422] dhcp4 (enp0s3): option requested_broadcast_address => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2423] dhcp4 (enp0s3): option requested_domain_name => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2424] dhcp4 (enp0s3): option requested_domain_name_servers => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2425] dhcp4 (enp0s3): option requested_domain_search => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2427] dhcp4 (enp0s3): option requested_host_name  => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2428] dhcp4 (enp0s3): option requested_interface_mtu => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2430] dhcp4 (enp0s3): option requested_ms_classless_static_routes => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2432] dhcp4 (enp0s3): option requested_nis_domain => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2433] dhcp4 (enp0s3): option requested_nis_servers => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2434] dhcp4 (enp0s3): option requested_ntp_servers => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2435] dhcp4 (enp0s3): option requested_rfc3442_classless_static_routes => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2437] dhcp4 (enp0s3): option requested_root_path  => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2438] dhcp4 (enp0s3): option requested_routers    => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2439] dhcp4 (enp0s3): option requested_static_routes => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2439] dhcp4 (enp0s3): option requested_subnet_mask => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2441] dhcp4 (enp0s3): option requested_time_offset => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2442] dhcp4 (enp0s3): option requested_wpad       => '1'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2442] dhcp4 (enp0s3): option routers              => '10.0.2.2'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2443] dhcp4 (enp0s3): option subnet_mask          => '255.255.255.0'
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2444] dhcp4 (enp0s3): state changed unknown -> bound
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.2482] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3562] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3574] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3593] manager: NetworkManager state is now CONNECTED_LOCAL
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3648] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3668] policy: set 'Проводное соединение 1' (enp0s3) as default for IPv4 routing and DNS
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3719] device (enp0s3): Activation: successful, device activated.
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.3765] manager: startup complete
+Dec  7 00:33:52 max-VirtualBox NetworkManager[461]: <info>  [1607283232.9314] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 00:33:53 max-VirtualBox NetworkManager[461]: <info>  [1607283233.4943] modem-manager: ModemManager not available
+Dec  7 00:33:53 max-VirtualBox NetworkManager[461]: <info>  [1607283233.5131] modem-manager: ModemManager now available
+Dec  7 00:33:54 max-VirtualBox ModemManager[555]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 00:34:25 max-VirtualBox ModemManager[555]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 00:35:29 max-VirtualBox NetworkManager[461]: <info>  [1607283329.9585] agent-manager: agent[f01a20c4e42abb23,:1.82/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 00:36:17 max-VirtualBox ModemManager[555]: <info>  Caught signal, shutting down...
+Dec  7 00:36:24 max-VirtualBox NetworkManager[470]: <info>  [1607283384.8795] NetworkManager (version 1.22.10) is starting... (for the first time)
+Dec  7 00:36:24 max-VirtualBox NetworkManager[470]: <info>  [1607283384.8796] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Dec  7 00:36:25 max-VirtualBox NetworkManager[470]: <info>  [1607283385.8381] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec  7 00:36:25 max-VirtualBox NetworkManager[470]: <info>  [1607283385.9195] manager[0x556114713040]: monitoring kernel firmware directory '/lib/firmware'.
+Dec  7 00:36:25 max-VirtualBox NetworkManager[470]: <info>  [1607283385.9196] monitoring ifupdown state file '/run/network/ifstate'.
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.3341] hostname: hostname: using hostnamed
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.3341] hostname: hostname changed from (none) to "max-VirtualBox"
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.3349] dns-mgr[0x5561146f8290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.3352] manager[0x556114713040]: rfkill: Wi-Fi hardware radio set enabled
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.3352] manager[0x556114713040]: rfkill: WWAN hardware radio set enabled
+Dec  7 00:36:26 max-VirtualBox NetworkManager[470]: <info>  [1607283386.8670] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.4349] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.5176] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.7368] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.9899] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.9912] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.9924] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec  7 00:36:27 max-VirtualBox ModemManager[577]: <info>  ModemManager (version 1.12.8) starting in system bus...
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.9967] manager: Networking is enabled by state file
+Dec  7 00:36:27 max-VirtualBox NetworkManager[470]: <info>  [1607283387.9971] dhcp-init: Using DHCP client 'internal'
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.1247] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.1247] settings: Loaded settings plugin: keyfile (internal)
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.1247] ifupdown: management mode: unmanaged
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.3239] device (lo): carrier: link connected
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.3242] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.3288] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.4608] settings: (enp0s3): created default wired connection 'Проводное соединение 1'
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.4833] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9292] device (enp0s3): carrier: link connected
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9402] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9470] policy: auto-activating connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9504] device (enp0s3): Activation: starting connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9511] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9539] manager: NetworkManager state is now CONNECTING
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9611] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9639] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:28 max-VirtualBox NetworkManager[470]: <info>  [1607283388.9706] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option dhcp_lease_time      => '86400'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option domain_name_servers  => '192.168.1.1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option expiry               => '1607369789'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option ip_address           => '10.0.2.15'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option next_server          => '10.0.2.4'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3650] dhcp4 (enp0s3): option requested_broadcast_address => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_domain_name => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_domain_name_servers => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_domain_search => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_host_name  => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_interface_mtu => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_ms_classless_static_routes => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_nis_domain => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_nis_servers => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_ntp_servers => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_rfc3442_classless_static_routes => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_root_path  => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3651] dhcp4 (enp0s3): option requested_routers    => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option requested_static_routes => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option requested_subnet_mask => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option requested_time_offset => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option requested_wpad       => '1'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option routers              => '10.0.2.2'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): option subnet_mask          => '255.255.255.0'
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3652] dhcp4 (enp0s3): state changed unknown -> bound
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.3735] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4388] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4403] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4430] manager: NetworkManager state is now CONNECTED_LOCAL
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4506] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4519] policy: set 'Проводное соединение 1' (enp0s3) as default for IPv4 routing and DNS
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4584] device (enp0s3): Activation: successful, device activated.
+Dec  7 00:36:29 max-VirtualBox NetworkManager[470]: <info>  [1607283389.4652] manager: startup complete
+Dec  7 00:36:30 max-VirtualBox NetworkManager[470]: <info>  [1607283390.0050] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 00:36:30 max-VirtualBox NetworkManager[470]: <info>  [1607283390.3848] modem-manager: ModemManager not available
+Dec  7 00:36:30 max-VirtualBox NetworkManager[470]: <info>  [1607283390.4055] modem-manager: ModemManager now available
+Dec  7 00:36:32 max-VirtualBox ModemManager[577]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 00:38:45 max-VirtualBox NetworkManager[470]: <info>  [1607283525.5499] agent-manager: agent[92231439f8dc2721,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 00:47:07 max-VirtualBox NetworkManager[470]: <info>  [1607284027.5886] manager: kernel firmware directory '/lib/firmware' changed
+Dec  7 00:47:12 max-VirtualBox NetworkManager[470]: <info>  [1607284032.1271] manager: kernel firmware directory '/lib/firmware' changed
+Dec  7 00:47:19 max-VirtualBox NetworkManager[470]: <info>  [1607284039.2732] manager: kernel firmware directory '/lib/firmware' changed
+Dec  7 00:47:23 max-VirtualBox NetworkManager[470]: <info>  [1607284043.4321] manager: kernel firmware directory '/lib/firmware' changed
+Dec  7 00:47:27 max-VirtualBox NetworkManager[470]: <info>  [1607284047.3889] manager: kernel firmware directory '/lib/firmware' changed
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7249] caught SIGTERM, shutting down normally.
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7257] dhcp4 (enp0s3): canceled DHCP transaction
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7257] dhcp4 (enp0s3): state changed bound -> done
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7257] device (enp0s3): DHCPv4: trying to acquire a new lease within 90 seconds
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7268] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 00:51:39 max-VirtualBox NetworkManager[470]: <info>  [1607284299.7535] exiting (success)
+Dec  7 00:51:39 max-VirtualBox NetworkManager[27768]: <info>  [1607284299.9870] NetworkManager (version 1.22.10) is starting... (after a restart)
+Dec  7 00:51:39 max-VirtualBox NetworkManager[27768]: <info>  [1607284299.9871] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.0015] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.0313] manager[0x55cc27cdc040]: monitoring kernel firmware directory '/lib/firmware'.
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.0376] monitoring ifupdown state file '/run/network/ifstate'.
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.8025] hostname: hostname: using hostnamed
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.8025] hostname: hostname changed from (none) to "max-VirtualBox"
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.8029] dns-mgr[0x55cc27cbf290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.8146] manager[0x55cc27cdc040]: rfkill: Wi-Fi hardware radio set enabled
+Dec  7 00:51:40 max-VirtualBox NetworkManager[27768]: <info>  [1607284300.8146] manager[0x55cc27cdc040]: rfkill: WWAN hardware radio set enabled
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0731] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0744] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0753] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0756] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0762] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0837] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0855] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0869] manager: Networking is enabled by state file
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0872] dhcp-init: Using DHCP client 'internal'
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.0890] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.1005] settings: Loaded settings plugin: keyfile (internal)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.1056] ifupdown: management mode: unmanaged
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4302] device (lo): carrier: link connected
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4355] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4460] device (enp0s3): carrier: link connected
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4509] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4678] manager: (enp0s3): assume: will attempt to assume matching connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707) (indicated)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4695] device (enp0s3): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'assume')
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.4932] device (enp0s3): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'assume')
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.5067] device (enp0s3): Activation: starting connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.6680] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.6707] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.6765] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.6772] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.9166] agent-manager: agent[082e5c1d8539b244,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 00:51:41 max-VirtualBox NetworkManager[27768]: <info>  [1607284301.9170] modem-manager: ModemManager available
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option dhcp_lease_time      => '86400'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option domain_name_servers  => '192.168.1.1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option expiry               => '1607370701'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option ip_address           => '10.0.2.15'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option next_server          => '10.0.2.4'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1071] dhcp4 (enp0s3): option requested_broadcast_address => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_domain_name => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_domain_name_servers => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_domain_search => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_host_name  => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_interface_mtu => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_ms_classless_static_routes => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_nis_domain => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_nis_servers => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_ntp_servers => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_rfc3442_classless_static_routes => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_root_path  => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_routers    => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_static_routes => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1072] dhcp4 (enp0s3): option requested_subnet_mask => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1073] dhcp4 (enp0s3): option requested_time_offset => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1073] dhcp4 (enp0s3): option requested_wpad       => '1'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1073] dhcp4 (enp0s3): option routers              => '10.0.2.2'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1073] dhcp4 (enp0s3): option subnet_mask          => '255.255.255.0'
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1073] dhcp4 (enp0s3): state changed unknown -> bound
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1194] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1576] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1580] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'assume')
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1589] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1606] policy: set 'Проводное соединение 1' (enp0s3) as default for IPv4 routing and DNS
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1646] device (enp0s3): Activation: successful, device activated.
+Dec  7 00:51:42 max-VirtualBox NetworkManager[27768]: <info>  [1607284302.1823] manager: startup complete
+Dec  7 00:51:47 max-VirtualBox NetworkManager[27768]: <info>  [1607284307.2712] audit: op="reload" arg="0" pid=28666 uid=0 result="success"
+Dec  7 00:51:47 max-VirtualBox NetworkManager[27768]: <info>  [1607284307.2727] config: signal: SIGHUP (no changes from disk)
+Dec  7 00:51:47 max-VirtualBox NetworkManager[27768]: <info>  [1607284307.2731] dns-mgr: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 01:23:07 max-VirtualBox NetworkManager[27768]: <info>  [1607286187.8099] agent-manager: agent[1d999a3e305a8828,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 01:36:06 max-VirtualBox NetworkManager[27768]: <info>  [1607286966.0886] agent-manager: agent[aa3bab49b9784770,:1.81/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 01:48:32 max-VirtualBox ModemManager[577]: <info>  Caught signal, shutting down...
+Dec  7 01:48:32 max-VirtualBox NetworkManager[27768]: <info>  [1607287712.8965] modem-manager: ModemManager no longer available
+Dec  7 01:48:32 max-VirtualBox ModemManager[577]: <info>  ModemManager is shut down
+Dec  7 10:01:00 max-VirtualBox NetworkManager[460]: <info>  [1607317260.1738] NetworkManager (version 1.22.10) is starting... (for the first time)
+Dec  7 10:01:00 max-VirtualBox NetworkManager[460]: <info>  [1607317260.1739] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Dec  7 10:01:00 max-VirtualBox NetworkManager[460]: <info>  [1607317260.2092] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec  7 10:01:00 max-VirtualBox NetworkManager[460]: <info>  [1607317260.6649] manager[0x5626f21ed040]: monitoring kernel firmware directory '/lib/firmware'.
+Dec  7 10:01:00 max-VirtualBox NetworkManager[460]: <info>  [1607317260.6650] monitoring ifupdown state file '/run/network/ifstate'.
+Dec  7 10:01:01 max-VirtualBox ModemManager[559]: <info>  ModemManager (version 1.12.8) starting in system bus...
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.3544] hostname: hostname: using hostnamed
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.3545] hostname: hostname changed from (none) to "max-VirtualBox"
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.3791] dns-mgr[0x5626f21d6290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.3797] manager[0x5626f21ed040]: rfkill: Wi-Fi hardware radio set enabled
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.3799] manager[0x5626f21ed040]: rfkill: WWAN hardware radio set enabled
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.5984] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec  7 10:01:01 max-VirtualBox NetworkManager[460]: <info>  [1607317261.8593] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec  7 10:01:02 max-VirtualBox NetworkManager[460]: <info>  [1607317262.8463] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.6907] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.9424] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.9430] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.9450] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.9469] manager: Networking is enabled by state file
+Dec  7 10:01:03 max-VirtualBox NetworkManager[460]: <info>  [1607317263.9496] dhcp-init: Using DHCP client 'internal'
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.1393] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.1395] settings: Loaded settings plugin: keyfile (internal)
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.1395] ifupdown: management mode: unmanaged
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.3128] device (lo): carrier: link connected
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.3131] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.3169] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.4268] settings: (enp0s3): created default wired connection 'Проводное соединение 1'
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.4702] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7275] modem-manager: ModemManager available
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7382] device (enp0s3): carrier: link connected
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7533] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7641] policy: auto-activating connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7660] device (enp0s3): Activation: starting connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7665] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7688] manager: NetworkManager state is now CONNECTING
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7715] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7745] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:04 max-VirtualBox NetworkManager[460]: <info>  [1607317264.7767] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0368] dhcp4 (enp0s3): option dhcp_lease_time      => '86400'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option domain_name_servers  => '192.168.1.1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option expiry               => '1607403664'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option ip_address           => '10.0.2.15'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option next_server          => '10.0.2.4'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option requested_broadcast_address => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0369] dhcp4 (enp0s3): option requested_domain_name => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_domain_name_servers => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_domain_search => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_host_name  => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_interface_mtu => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_ms_classless_static_routes => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_nis_domain => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_nis_servers => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_ntp_servers => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_rfc3442_classless_static_routes => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_root_path  => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_routers    => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_static_routes => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0370] dhcp4 (enp0s3): option requested_subnet_mask => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0371] dhcp4 (enp0s3): option requested_time_offset => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0371] dhcp4 (enp0s3): option requested_wpad       => '1'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0371] dhcp4 (enp0s3): option routers              => '10.0.2.2'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0371] dhcp4 (enp0s3): option subnet_mask          => '255.255.255.0'
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0371] dhcp4 (enp0s3): state changed unknown -> bound
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.0442] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1101] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1119] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1138] manager: NetworkManager state is now CONNECTED_LOCAL
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1187] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1200] policy: set 'Проводное соединение 1' (enp0s3) as default for IPv4 routing and DNS
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1245] device (enp0s3): Activation: successful, device activated.
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.1500] manager: startup complete
+Dec  7 10:01:05 max-VirtualBox NetworkManager[460]: <info>  [1607317265.6898] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 10:01:06 max-VirtualBox ModemManager[559]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 13:02:33 max-VirtualBox NetworkManager[460]: <info>  [1607328153.5126] agent-manager: agent[d71728cd75779dae,:1.80/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 13:03:08 max-VirtualBox NetworkManager[485]: <info>  [1607328188.9569] NetworkManager (version 1.22.10) is starting... (for the first time)
+Dec  7 13:03:08 max-VirtualBox NetworkManager[485]: <info>  [1607328188.9570] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: default-wifi-powersave-on.conf)
+Dec  7 13:03:09 max-VirtualBox NetworkManager[485]: <info>  [1607328189.1209] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec  7 13:03:09 max-VirtualBox NetworkManager[485]: <info>  [1607328189.5813] manager[0x557d0c4a3040]: monitoring kernel firmware directory '/lib/firmware'.
+Dec  7 13:03:09 max-VirtualBox NetworkManager[485]: <info>  [1607328189.5814] monitoring ifupdown state file '/run/network/ifstate'.
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.3092] hostname: hostname: using hostnamed
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.3093] hostname: hostname changed from (none) to "max-VirtualBox"
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.3096] dns-mgr[0x557d0c488290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.3099] manager[0x557d0c4a3040]: rfkill: Wi-Fi hardware radio set enabled
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.3099] manager[0x557d0c4a3040]: rfkill: WWAN hardware radio set enabled
+Dec  7 13:03:10 max-VirtualBox ModemManager[588]: <info>  ModemManager (version 1.12.8) starting in system bus...
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.5919] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec  7 13:03:10 max-VirtualBox NetworkManager[485]: <info>  [1607328190.7492] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec  7 13:03:11 max-VirtualBox NetworkManager[485]: <info>  [1607328191.3557] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.1481] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.6402] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.6678] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.6691] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.6699] manager: Networking is enabled by state file
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.6711] dhcp-init: Using DHCP client 'internal'
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.8148] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.8149] settings: Loaded settings plugin: keyfile (internal)
+Dec  7 13:03:12 max-VirtualBox NetworkManager[485]: <info>  [1607328192.8149] ifupdown: management mode: unmanaged
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.0205] device (lo): carrier: link connected
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.0217] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.0298] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.2197] settings: (enp0s3): created default wired connection 'Проводное соединение 1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.2646] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.5828] device (enp0s3): carrier: link connected
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6011] modem-manager: ModemManager available
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6025] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6289] policy: auto-activating connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6309] device (enp0s3): Activation: starting connection 'Проводное соединение 1' (42a97756-3c43-317b-84aa-79dae3368707)
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6323] device (enp0s3): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6471] manager: NetworkManager state is now CONNECTING
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6553] device (enp0s3): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6575] device (enp0s3): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.6591] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option dhcp_lease_time      => '86400'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option domain_name_servers  => '192.168.1.1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option expiry               => '1607414593'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option ip_address           => '10.0.2.15'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option next_server          => '10.0.2.4'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option requested_broadcast_address => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option requested_domain_name => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8618] dhcp4 (enp0s3): option requested_domain_name_servers => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_domain_search => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_host_name  => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_interface_mtu => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_ms_classless_static_routes => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_nis_domain => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_nis_servers => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_ntp_servers => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_rfc3442_classless_static_routes => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_root_path  => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_routers    => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_static_routes => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8619] dhcp4 (enp0s3): option requested_subnet_mask => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8620] dhcp4 (enp0s3): option requested_time_offset => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8620] dhcp4 (enp0s3): option requested_wpad       => '1'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8620] dhcp4 (enp0s3): option routers              => '10.0.2.2'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8620] dhcp4 (enp0s3): option subnet_mask          => '255.255.255.0'
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8620] dhcp4 (enp0s3): state changed unknown -> bound
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.8917] device (enp0s3): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9524] device (enp0s3): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9529] device (enp0s3): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9546] manager: NetworkManager state is now CONNECTED_LOCAL
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9562] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9571] policy: set 'Проводное соединение 1' (enp0s3) as default for IPv4 routing and DNS
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9583] device (enp0s3): Activation: successful, device activated.
+Dec  7 13:03:13 max-VirtualBox NetworkManager[485]: <info>  [1607328193.9643] manager: startup complete
+Dec  7 13:03:16 max-VirtualBox ModemManager[588]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 13:03:20 max-VirtualBox NetworkManager[485]: <info>  [1607328200.9644] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 13:06:54 max-VirtualBox NetworkManager[485]: <info>  [1607328414.1311] agent-manager: agent[0c266b6fb343b257,:1.79/org.gnome.Shell.NetworkAgent/1000]: agent registered
+Dec  7 13:11:14 max-VirtualBox NetworkManager[485]: <info>  [1607328674.3729] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 13:11:17 max-VirtualBox NetworkManager[485]: <info>  [1607328677.7800] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 13:11:35 max-VirtualBox NetworkManager[485]: <info>  [1607328695.3741] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 13:11:53 max-VirtualBox NetworkManager[485]: <info>  [1607328713.5330] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 13:12:01 max-VirtualBox NetworkManager[485]: <info>  [1607328721.3737] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 13:12:02 max-VirtualBox NetworkManager[485]: <info>  [1607328722.7851] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec  7 13:14:51 max-VirtualBox ModemManager[588]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:03.0': not supported by any plugin
+Dec  7 13:22:21 max-VirtualBox NetworkManager[485]: <info>  [1607329341.3750] manager: NetworkManager state is now CONNECTED_SITE
+Dec  7 13:22:25 max-VirtualBox NetworkManager[485]: <info>  [1607329345.6937] manager: NetworkManager state is now CONNECTED_GLOBAL
