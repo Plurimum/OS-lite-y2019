@@ -1,0 +1,7 @@
+#!/bin/bash
+./bapr1 &
+./bapr2 &
+./bapr3 &
+sleep 5
+kill $(cat pid3.txt)
+cpulimit -p $(cat pid1.txt) --limit=10

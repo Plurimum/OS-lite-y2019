@@ -1,0 +1,7 @@
+#!/bin/bash
+newDir=~/test
+report=~/report.txt
+testfile=$newDir"/"$(date +"%F_%R")
+mkdir $newDir && { echo "catalog test was created successfully" >> "$report"; touch $testfile; }
+ping -c 1 www.net_nikogo.ru || echo $(date +"%F_%R") "ping_fail" >> $report
+

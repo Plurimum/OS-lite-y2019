@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "*/5 * * * 2 ~/lab3/i_script" | crontab

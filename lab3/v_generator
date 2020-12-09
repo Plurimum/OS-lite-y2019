@@ -1,0 +1,18 @@
+#!/bin/bash
+mkfifo pipe
+re='^[0-9]+$'
+while true
+do
+  read LINE
+  echo "$LINE" > pipe
+  if [[ $LINE == "QUIT" ]]
+  then
+    break
+  fi
+  if ! [[ $LINE =~ $re || $LINE == "+" || "$LINE" == "*" ]]
+  then
+    rm pipe
+    echo "error: NaN"
+    exit 1
+  fi
+done

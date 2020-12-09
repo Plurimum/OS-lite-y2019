@@ -1,0 +1,8 @@
+#!/bin/bash
+x=0
+PID=$$
+echo $PID > pid1.txt
+while true
+do
+  let a=$a+1
+done
