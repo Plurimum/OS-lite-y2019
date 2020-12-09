@@ -1,0 +1,3 @@
+#!/bin/bash
+ps -A -o user | grep -c max > answer1
+ps -A -o pid,cmd,user | grep max | awk '{ print($1, ":", $2) }' >> answer1
