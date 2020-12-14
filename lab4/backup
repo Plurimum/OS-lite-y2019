@@ -1,0 +1,40 @@
+#!/bin/bash
+cd ~
+dateNow=$(date +%Y-%m-%d)
+datePrev=$(ls | grep "^Backup-" | sort -n | tail -1 | cut -d "-" -f 2,3,4)
+if [[ $( echo $(date -d $dateNow +%s) $(date -d $datePrev +%s) | awk '{print ($1-$2) / 60 / 60 / 24}') -ge 7 ]]
+then
+  mkdir "Backup-$dateNow"
+  cd ~/source
+  FilesInSource=$(ls)
+  for currentFile in $FilesInSource
+  do
+    cp -R $currentFile ~/Backup-$dateNow
+  done
+  cd ~
+  echo "Directory Backup-$dateNow was created." >> backup-report
+  echo -e "Files:\n$FilesInSource" >> backup-report
+else
+  cd ~/source
+  FilesInSource=$(ls)
+  cd ~
+  echo "Directory Backup-$datePrev already exists." >> backup-report
+  cd ~/Backup-$datePrev
+  for currentFile in $FilesInSource
+  do
+    if [[ -f $currentFile ]]
+    then
+      sizeSourceFile=$(ls -l ~/source/$currentFile | awk '{print$5}')
+      sizeBackupFile=$(ls -l $currentFile | awk '{print$5}')
+      if [[ $sizeSourceFile -ne $sizeBackupFile ]]
+      then
+        mv $currentFile $currentFile-$dateNow
+        cp -R ~/source/$currentFile ~/Backup-$datePrev
+        echo "rename $currentFile to $currentFile-$dateNow" >> ~/backup-report
+      fi
+    else
+      echo "copying $currentFile" >> ~/backup-report
+      cp -R ~/source/$currentFile ~/Backup-$datePrev
+    fi
+  done
+fi

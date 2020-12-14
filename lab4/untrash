@@ -1,0 +1,48 @@
+#!/bin/bash
+if [[ $# -ne 1 ]]
+then
+  echo "You should print exactly one file name as a parameter"
+  exit 1
+fi
+file=$1
+trashLog=~/trash.log
+trash=$(cat $trashLog)
+echo "" > $trashLog
+for string in $trash
+do
+  if [[ $string =~ $file ]]
+  then
+    echo "Restore $string (print y/n)?"
+    read choice
+    if [[ $choice == "y" ]]
+    then 
+      cd ~/trash
+      fileInTrash="$( echo "$string" | cut -d "=" -f 2 )"
+      mycd="$(echo "$string" | cut -d "=" -f 1 | grep -oP ".*/")"
+      if [[ ! -d $mycd ]]
+      then
+        ln $fileInTrash ~/$file
+        rm $file
+      else
+        if [[ ! -f $mycd$file ]]
+        then
+          ln "$fileInTrash" "$mycd$file"
+          rm "$fileInTrash"
+        else
+          echo -e "This file already exists.\nRename and restore file? (print y/n)"
+          read choice
+          if [[ $choice == "y" ]]
+          then
+            echo "Print new file name"
+            read newName
+            ln $fileInTrash $mycd$newName
+            rm $fileInTrash
+          fi
+        fi
+      fi
+    fi
+  else
+    $string >> $trashLog
+  fi
+done
+    

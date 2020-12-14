@@ -1,0 +1,22 @@
+#!/bin/bash
+if [[ $# -ne 1 ]]
+then
+  echo "You should print exactly one file name as a parameter"
+  exit 1
+fi
+file=$1
+trash=~/trash
+if ! [[ -d $trash ]]
+then
+  mkdir $trash
+fi
+if ! [[ -f $1 ]]
+then
+  echo "File not exist"
+  exit 1
+fi
+link=$(date +%T)
+ln $file "$trash/$link"
+rm $file
+curDir=$(pwd)
+echo "$curDir/$file=$link" >> ~/trash.log
