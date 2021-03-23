@@ -1,0 +1,482 @@
+
+System memory parameter values:
+3936,4 -total 1964,4 -free 961,7 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2737,5 -buff/cashe
+   3000 max       20   0   87644  81504   3120 S   0,0   2,0   0:02.24 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 1887,4 -free 1038,7 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2660,7 -buff/cashe
+   3000 max       20   0  165788 159868   3240 S   0,0   4,0   0:04.71 mem
+2852
+3019
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 1810,9 -free 1115,3 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2584,2 -buff/cashe
+   3000 max       20   0  243932 238076   3240 S   0,0   5,9   0:07.12 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 1734,3 -free 1191,8 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2507,6 -buff/cashe
+   3000 max       20   0  322076 316140   3240 S   0,0   7,8   0:09.54 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 1657,8 -free 1268,3 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2431,1 -buff/cashe
+   3000 max       20   0  400220 394144   3240 S   0,0   9,8   0:11.97 mem
+3046
+2852
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 1581,3 -free 1344,9 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2354,8 -buff/cashe
+   3000 max       20   0  478364 472400   3240 S   0,0  11,7   0:14.43 mem
+2852
+1433
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 1504,7 -free 1421,4 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2278,3 -buff/cashe
+   3000 max       20   0  556508 550404   3240 S   0,0  13,7   0:16.85 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 1428,2 -free 1497,9 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2201,7 -buff/cashe
+   3000 max       20   0  634652 628672   3240 S   0,0  15,6   0:19.26 mem
+2852
+3073
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 1351,7 -free 1574,5 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2125,5 -buff/cashe
+   3000 max       20   0  712796 706668   3240 S   0,0  17,5   0:21.65 mem
+2852
+1433
+3082
+1
+2
+
+System memory parameter values:
+3936,4 -total 1275,1 -free 1651,0 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 2048,9 -buff/cashe
+   3000 max       20   0  790808 784932   3240 S   0,0  19,5   0:24.09 mem
+2852
+2968
+2983
+3091
+1
+
+System memory parameter values:
+3936,4 -total 1198,6 -free 1727,5 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1972,4 -buff/cashe
+   3000 max       20   0  868952 862936   3240 S   0,0  21,4   0:26.53 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 1122,3 -free 1803,8 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1896,1 -buff/cashe
+   3000 max       20   0  947096 941200   3240 S   0,0  23,3   0:28.96 mem
+2852
+1433
+3111
+1
+2
+
+System memory parameter values:
+3936,4 -total 1045,8 -free 1880,3 -used 1010,3 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1819,6 -buff/cashe
+   3000 max       20   0 1025240 995,3m   3240 S   0,0  25,3   0:31.51 mem
+2852
+3121
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 969,2 -free 1956,8 -used 1010,4 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1743,1 -buff/cashe
+   3000 max       20   0 1103384   1,0g   3240 S   0,0  27,2   0:34.02 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 893,0 -free 2033,1 -used 1010,4 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1666,6 -buff/cashe
+   3000 max       20   0 1181528   1,1g   3240 S   0,0  29,2   0:36.69 mem
+1433
+2852
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 815,4 -free 2110,6 -used 1010,4 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1589,1 -buff/cashe
+   3000 max       20   0 1259672   1,2g   3240 S   0,0  31,1   0:39.23 mem
+2852
+3159
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 739,9 -free 2186,1 -used 1010,4 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1513,8 -buff/cashe
+   3000 max       20   0 1337684   1,3g   3240 S   0,0  33,0   0:41.64 mem
+2852
+3168
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 663,6 -free 2262,4 -used 1010,4 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1437,3 -buff/cashe
+   3000 max       20   0 1415828   1,3g   3240 S   0,0  35,0   0:44.10 mem
+2852
+1261
+1433
+1
+2
+
+System memory parameter values:
+3936,4 -total 586,8 -free 2339,2 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1360,7 -buff/cashe
+   3000 max       20   0 1493972   1,4g   3240 S   0,0  36,9   0:46.72 mem
+2852
+1261
+1433
+2916
+3186
+
+System memory parameter values:
+3936,4 -total 510,5 -free 2415,4 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1284,2 -buff/cashe
+   3000 max       20   0 1572116   1,5g   3240 S   0,0  38,9   0:49.24 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 434,0 -free 2492,0 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1207,7 -buff/cashe
+   3000 max       20   0 1650260   1,6g   3240 S   0,0  40,8   0:51.66 mem
+2852
+3204
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 357,5 -free 2568,5 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1131,4 -buff/cashe
+   3000 max       20   0 1728404   1,6g   3240 S   0,0  42,7   0:54.17 mem
+2852
+3213
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 281,2 -free 2644,8 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 1054,8 -buff/cashe
+   3000 max       20   0 1806548   1,7g   3240 S   0,0  44,7   0:56.65 mem
+2852
+1261
+3222
+1
+2
+
+System memory parameter values:
+3936,4 -total 204,6 -free 2721,3 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 978,6 -buff/cashe
+   3000 max       20   0 1884692   1,8g   3240 S   0,0  46,6   0:59.07 mem
+2852
+3231
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 128,3 -free 2797,6 -used 1010,5 -buff/cashe
+448,5 -total 448,5 -free 0,0 -used 902,3 -buff/cashe
+   3000 max       20   0 1962704   1,9g   3240 S   0,0  48,5   1:01.59 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 112,2 -free 2891,5 -used 932,7 -buff/cashe
+448,5 -total 448,2 -free 0,3 -used 812,6 -buff/cashe
+   3000 max       20   0 2040848   1,9g   2732 S   0,0  50,5   1:04.01 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 111,4 -free 2968,1 -used 856,9 -buff/cashe
+448,5 -total 448,2 -free 0,3 -used 737,1 -buff/cashe
+   3000 max       20   0 2118992   2,0g   2832 S   0,0  52,4   1:06.35 mem
+2852
+1433
+3276
+1
+2
+
+System memory parameter values:
+3936,4 -total 114,0 -free 3043,9 -used 778,5 -buff/cashe
+448,5 -total 448,0 -free 0,5 -used 662,1 -buff/cashe
+   3000 max       20   0 2197136   2,1g   2832 S   0,0  54,3   1:08.71 mem
+2852
+3285
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 113,6 -free 3120,3 -used 702,5 -buff/cashe
+448,5 -total 447,7 -free 0,8 -used 586,5 -buff/cashe
+   3000 max       20   0 2275280   2,2g   2832 S   0,0  56,3   1:11.05 mem
+2852
+3294
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 233,4 -free 3196,5 -used 506,6 -buff/cashe
+448,5 -total 447,2 -free 1,3 -used 512,3 -buff/cashe
+   3000 max       20   0 2353424   2,2g   2832 S   0,0  58,2   1:13.50 mem
+2852
+1638
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 173,1 -free 3255,8 -used 507,5 -buff/cashe
+448,5 -total 447,2 -free 1,3 -used 452,9 -buff/cashe
+   3000 max       20   0 2431568   2,3g   2832 S   0,0  60,2   1:15.96 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 113,4 -free 3332,0 -used 491,0 -buff/cashe
+448,5 -total 447,0 -free 1,5 -used 376,9 -buff/cashe
+   3000 max       20   0 2509712   2,4g   2832 S   0,0  62,1   1:18.28 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 115,5 -free 3408,2 -used 412,7 -buff/cashe
+448,5 -total 445,5 -free 3,0 -used 301,3 -buff/cashe
+   3000 max       20   0 2587724   2,5g   2832 S   0,0  64,0   1:20.60 mem
+2852
+1433
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 117,0 -free 3482,6 -used 336,8 -buff/cashe
+448,5 -total 444,0 -free 4,5 -used 228,1 -buff/cashe
+   3000 max       20   0 2665868   2,5g   2832 S   0,0  66,0   1:22.93 mem
+2852
+11
+1433
+1
+2
+
+System memory parameter values:
+3936,4 -total 120,1 -free 3574,7 -used 241,6 -buff/cashe
+448,5 -total 443,2 -free 5,3 -used 142,2 -buff/cashe
+   3000 max       20   0 2744012   2,6g   2828 S   0,0  67,9   1:25.24 mem
+2852
+3367
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 128,2 -free 3651,1 -used 157,2 -buff/cashe
+448,5 -total 442,7 -free 5,8 -used 89,5 -buff/cashe
+   3000 max       20   0 2822156   2,7g   2824 S   0,0  69,9   1:27.54 mem
+2852
+1433
+3376
+1
+2
+
+System memory parameter values:
+3936,4 -total 105,0 -free 3726,7 -used 104,7 -buff/cashe
+448,5 -total 441,7 -free 6,8 -used 40,4 -buff/cashe
+   3000 max       20   0 2900300   2,8g   2824 S   0,0  71,8   1:29.87 mem
+2852
+1261
+3385
+1
+2
+
+System memory parameter values:
+3936,4 -total 100,0 -free 3762,7 -used 73,7 -buff/cashe
+448,5 -total 357,7 -free 90,8 -used 69,3 -buff/cashe
+   3000 max       20   0 2978444   2,8g    912 S   0,0  73,7   1:32.26 mem
+1433
+2852
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 105,9 -free 3763,1 -used 67,4 -buff/cashe
+448,5 -total 337,2 -free 111,2 -used 22,8 -buff/cashe
+   3000 max       20   0 3056588   2,9g   1040 S   0,0  75,6   1:34.65 mem
+2852
+3403
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 99,7 -free 3769,7 -used 67,1 -buff/cashe
+448,5 -total 253,0 -free 195,5 -used 25,4 -buff/cashe
+   3000 max       20   0 3134600   3,0g    980 S   0,0  77,6   1:37.09 mem
+2852
+3412
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 105,6 -free 3769,4 -used 61,5 -buff/cashe
+448,5 -total 190,5 -free 258,0 -used 20,0 -buff/cashe
+   3000 max       20   0 3212744   3,1g   1012 S   0,0  79,5   1:39.43 mem
+2852
+3421
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 116,5 -free 3763,7 -used 56,2 -buff/cashe
+448,5 -total 108,5 -free 340,0 -used 27,6 -buff/cashe
+   3000 max       20   0 3290888   3,1g    984 S   0,0  81,4   1:41.77 mem
+2852
+1
+2
+3
+4
+
+System memory parameter values:
+3936,4 -total 121,1 -free 3762,9 -used 52,5 -buff/cashe
+448,5 -total 19,2 -free 429,2 -used 31,0 -buff/cashe
+   3000 max       20   0 3369032   3,2g    984 S   0,0  83,4   1:44.14 mem
+2852
+3439
+1
+2
+3
+
+System memory parameter values:
+3936,4 -total 87,4 -free 3807,8 -used 41,2 -buff/cashe
+448,5 -total 0,0 -free 448,5 -used 22,4 -buff/cashe
+   3000 max       20   0 3447176   3,3g      4 S   0,0  85,3   1:46.51 mem
+81
+1700
+1433
+2852
+3451
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
